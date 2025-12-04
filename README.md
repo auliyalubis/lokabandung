@@ -52,14 +52,17 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 - Modal edit untuk ubah nama, deskripsi, dan data lainnya.
 
 
+
 🧩 Komponen Pembentuk
 
 <img width="601" height="297" alt="{1B8C932B-2058-4058-B90E-B8C7D96D81C4}" src="https://github.com/user-attachments/assets/1e7becef-f5aa-46a1-bb06-910ffbf78eb4" />
 
 
+
 🗂️ Struktur Data
 
 <img width="529" height="219" alt="{A48A924A-24B2-4AE9-9CA7-47957DF29ABB}" src="https://github.com/user-attachments/assets/55067b5a-4891-4300-a4e2-6ce7f0dbf62b" />
+
 
 
 🖼️ Komponen Halaman
@@ -75,6 +78,8 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 <img width="350" height="714" alt="Screenshot_2025-12-05_045359-removebg-preview" src="https://github.com/user-attachments/assets/a4ffc988-012b-4025-9186-0ac6d48dca5e" />
 <img width="346" height="722" alt="Screenshot_2025-12-05_052507-removebg-preview" src="https://github.com/user-attachments/assets/e8e88e78-7c01-4d82-b87f-f208fdc7e2db" />
 <img width="350" height="714" alt="Screenshot_2025-12-05_052528-removebg-preview" src="https://github.com/user-attachments/assets/467294dd-4b2d-42b1-bb2c-8f9e241240f4" />
+<img width="348" height="716" alt="Screenshot_2025-12-05_052651-removebg-preview" src="https://github.com/user-attachments/assets/8228c63a-1772-47a7-85f6-45351800451e" />
+
 
 
 # Welcome to your Expo app 👋
