@@ -5,25 +5,30 @@
 
 import { Platform } from 'react-native';
 
-const tintColorLight = '#0a7ea4';
-const tintColorDark = '#fff';
+// Bandung-inspired palette
+const tintColorLight = '#8B4513'; // SaddleBrown
+const tintColorDark = '#D2B48C'; // Tan
 
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
+    text: '#5A5A5A', // DimGray
+    background: '#F5F5DC', // Beige
     tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
+    icon: '#696969', // DimGray
+    tabIconDefault: '#A9A9A9', // DarkGray
     tabIconSelected: tintColorLight,
+    accent: '#A0522D', // Sienna
+    muted: '#D3D3D3', // LightGray
   },
   dark: {
-    text: '#ECEDEE',
-    background: '#151718',
+    text: '#D3D3D3', // LightGray
+    background: '#363636', // DarkGray
     tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
+    icon: '#A9A9A9', // DarkGray
+    tabIconDefault: '#696969', // DimGray
     tabIconSelected: tintColorDark,
+    accent: '#CD853F', // Peru
+    muted: '#808080', // Gray
   },
 };
 

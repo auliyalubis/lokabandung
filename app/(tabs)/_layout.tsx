@@ -23,11 +23,45 @@ export default function TabLayout() {
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
         }}
       />
+
+      <Tabs.Screen
+        name="mahasiswa"
+        options={{
+          title: 'Gamifikasi',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="trophy.fill" color={color} />,
+        }}
+      />
+
+      <Tabs.Screen
+        name="lokasi"
+        options={{
+          title: 'Lokasi',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="location.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="favorites"
+        options={{
+          title: 'Favorites',
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="mappin.and.ellipse.fill" color={color} />,
+        }}
+      />
       <Tabs.Screen
         name="explore"
         options={{
           title: 'Explore',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="paperplane.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="gmap"
+        options={{
+          title: 'Map',
+          tabBarIcon: ({ color }) => <IconSymbol
+            size={28}
+            name="map.fill"
+            color={color}
+          />,
         }}
       />
     </Tabs>
