@@ -53,14 +53,17 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 
 
 🧩 Komponen Pembentuk
+
 <img width="601" height="297" alt="{1B8C932B-2058-4058-B90E-B8C7D96D81C4}" src="https://github.com/user-attachments/assets/1e7becef-f5aa-46a1-bb06-910ffbf78eb4" />
 
 
 🗂️ Struktur Data
+
 <img width="529" height="219" alt="{A48A924A-24B2-4AE9-9CA7-47957DF29ABB}" src="https://github.com/user-attachments/assets/55067b5a-4891-4300-a4e2-6ce7f0dbf62b" />
 
 
 🖼️ Komponen Halaman
+
 <img width="361" height="691" alt="Screenshot_2025-12-05_021200-removebg-preview" src="https://github.com/user-attachments/assets/bb88fb25-c8ce-45ab-9a4c-d068fef4bcf9" />
 <img width="364" height="686" alt="Screenshot_2025-12-05_022514-removebg-preview" src="https://github.com/user-attachments/assets/5f3786f6-55d2-4921-a2ba-a82fdf2fb884" />
 <img width="357" height="699" alt="Screenshot_2025-12-05_040657-removebg-preview" src="https://github.com/user-attachments/assets/be8475aa-e854-4d71-9f64-535f1da537e5" />
@@ -72,7 +75,6 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 <img width="350" height="714" alt="Screenshot_2025-12-05_045359-removebg-preview" src="https://github.com/user-attachments/assets/a4ffc988-012b-4025-9186-0ac6d48dca5e" />
 <img width="346" height="722" alt="Screenshot_2025-12-05_052507-removebg-preview" src="https://github.com/user-attachments/assets/e8e88e78-7c01-4d82-b87f-f208fdc7e2db" />
 <img width="350" height="714" alt="Screenshot_2025-12-05_052528-removebg-preview" src="https://github.com/user-attachments/assets/467294dd-4b2d-42b1-bb2c-8f9e241240f4" />
-<img width="348" height="716" alt="Screenshot_2025-12-05_052651-removebg-preview" src="https://github.com/user-attachments/assets/b7bd42a0-83b9-45f6-9f88-ba9ee1216d41" />
 
 
 # Welcome to your Expo app 👋
