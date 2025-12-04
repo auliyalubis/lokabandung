@@ -4,9 +4,11 @@ Aplikasi Interaktif Pengenalan Heritage & Promosi Budaya Bandung
 
 Loka Bandung adalah aplikasi mobile berbasis React Native yang dirancang untuk mengenalkan situs heritage kota Bandung secara modern melalui kombinasi peta interaktif, gamifikasi, dan promosi budaya lokal. Aplikasi ini membantu masyarakat menjelajahi sejarah Bandung dengan cara yang lebih seru, informatif, dan mudah diakses.
 
+
 📖 Deskripsi Singkat
 
 Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal generasi muda. Loka Bandung hadir sebagai solusi media edukasi heritage yang lebih menarik, interaktif, dan gamified, sekaligus menjadi sarana pendukung pelestarian budaya dan pariwisata kota.
+
 
 🎯 Tujuan Aplikasi
 
@@ -16,7 +18,9 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 - Mendukung pelestarian budaya lewat peningkatan awareness masyarakat.
 - Menjadi media promosi pariwisata digital bagi daerah.
 
+
 ✅ Fitur Aplikasi
+
 🏆 Gamifikasi
 - Level, badge, total poin, dan progress bar.
 - Misi/tantangan dengan reward poin.
@@ -47,11 +51,14 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 - Fitur: Edit, Hapus, dan Placeholder ketika kosong.
 - Modal edit untuk ubah nama, deskripsi, dan data lainnya.
 
+
 🧩 Komponen Pembentuk
 <img width="601" height="297" alt="{1B8C932B-2058-4058-B90E-B8C7D96D81C4}" src="https://github.com/user-attachments/assets/1e7becef-f5aa-46a1-bb06-910ffbf78eb4" />
 
+
 🗂️ Struktur Data
 <img width="529" height="219" alt="{A48A924A-24B2-4AE9-9CA7-47957DF29ABB}" src="https://github.com/user-attachments/assets/55067b5a-4891-4300-a4e2-6ce7f0dbf62b" />
+
 
 🖼️ Komponen Halaman
 <img width="361" height="691" alt="Screenshot_2025-12-05_021200-removebg-preview" src="https://github.com/user-attachments/assets/bb88fb25-c8ce-45ab-9a4c-d068fef4bcf9" />
@@ -66,6 +73,7 @@ Bandung memiliki banyak warisan sejarah dan budaya yang sering kurang dikenal ge
 <img width="346" height="722" alt="Screenshot_2025-12-05_052507-removebg-preview" src="https://github.com/user-attachments/assets/e8e88e78-7c01-4d82-b87f-f208fdc7e2db" />
 <img width="350" height="714" alt="Screenshot_2025-12-05_052528-removebg-preview" src="https://github.com/user-attachments/assets/467294dd-4b2d-42b1-bb2c-8f9e241240f4" />
 <img width="348" height="716" alt="Screenshot_2025-12-05_052651-removebg-preview" src="https://github.com/user-attachments/assets/b7bd42a0-83b9-45f6-9f88-ba9ee1216d41" />
+
 
 # Welcome to your Expo app 👋
 
